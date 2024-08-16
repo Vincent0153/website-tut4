@@ -1,0 +1,18 @@
+---
+title: "My story"
+author: "VZ"
+date: "2024-08-16"
+categories: [story]
+image: "image.jpg"
+---
+
+![](image.jpg)
+
+This is my story.
+This is a video made by a Youtuber called Matt Parker. We have the access to this video via Youtube, here is the website (https://www.youtube.com/watch?v=yh5c3duQQ1w).
+
+In summary, the video explores the mathematical aspects of basketball, especially focusing on the phenomenon that more and more players prefer shooting three-pointers in the NBA. The expert dives into the data behind this trend and conducts some experiments to better understand the strategic reasons for the rising trend of three-point shooting.
+
+The background of this video is 0:00-2:20, the host introduces the concept of analyzing the mathematical problem behind basketball at the Brooklyn Basketball Academy. In addition, he introduces Tim, a math professor and an expert in sports analytics, and points out the increasing trend in three-point shooting, which should be explored in a statistical way.
+
+The summary of the video can be found in 3:10-4:43, as they review the data of NBA shots, visualizing the change in shooting patterns from year 2000-2020. Shooting difference between different years indicates that modern NBA players have an increasingly eager to shoot from the three point line.

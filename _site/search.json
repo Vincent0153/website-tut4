@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tutorial4",
+    "section": "",
+    "text": "My story\n\n\n\n\n\n\nstory\n\n\n\n\n\n\n\n\n\nAug 16, 2024\n\n\nVZ\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 16, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 16, 2024\n\n\nVZ\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 13, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/test/index.html",
+    "href": "posts/test/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "Hello"
+  },
+  {
+    "objectID": "posts/GG/index.html",
+    "href": "posts/GG/index.html",
+    "title": "My story",
+    "section": "",
+    "text": "This is my story. This is a video made by a Youtuber called Matt Parker. We have the access to this video via Youtube, here is the website (https://www.youtube.com/watch?v=yh5c3duQQ1w).\nIn summary, the video explores the mathematical aspects of basketball, especially focusing on the phenomenon that more and more players prefer shooting three-pointers in the NBA. The expert dives into the data behind this trend and conducts some experiments to better understand the strategic reasons for the rising trend of three-point shooting.\nThe background of this video is 0:00-2:20, the host introduces the concept of analyzing the mathematical problem behind basketball at the Brooklyn Basketball Academy. In addition, he introduces Tim, a math professor and an expert in sports analytics, and points out the increasing trend in three-point shooting, which should be explored in a statistical way.\nThe summary of the video can be found in 3:10-4:43, as they review the data of NBA shots, visualizing the change in shooting patterns from year 2000-2020. Shooting difference between different years indicates that modern NBA players have an increasingly eager to shoot from the three point line."
+  }
+]
